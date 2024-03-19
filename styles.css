@@ -1,0 +1,19 @@
+body {
+  background: gray;
+  font-family: Arial;
+}
+
+h1 {
+  color: White;
+  text-align: Left;
+}
+.assign {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  background: White;
+}
+.assign img {
+  width: 200px;
+  padding: 10px;
+}
