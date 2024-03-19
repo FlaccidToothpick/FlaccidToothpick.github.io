@@ -1,10 +1,10 @@
 body {
-  background: gray;
+  background: Dark gray;
   font-family: Arial;
 }
 
 h1 {
-  color: White;
+  color: lightGray;
   text-align: Left;
 }
 .assign {
