@@ -1,5 +1,5 @@
 body {
-  background: Dark gray;
+  background: darkgray;
   font-family: Arial;
 }
 
@@ -16,4 +16,8 @@ h1 {
 .assign img {
   width: 200px;
   padding: 10px;
+}
+.assign det{
+  padding: 10px;
+  color: black;
 }
